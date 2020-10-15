@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap"');
+@import '../css/colors.css';
+
+* {
+}
+
+.custom-shape-divider-bottom-1601554057 {
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-bottom-1601554057 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 150px;
+    transform: rotateY(180deg);
+}
+
+.custom-shape-divider-bottom-1601554057 .shape-fill {
+    fill: #7f70f5;
+}
+.girl {
+    height: 30vh;
+    margin-top: 20px;
+}

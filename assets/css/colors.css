@@ -1,0 +1,17 @@
+body {
+    --main-link-color: #fff;
+    --main-gradient-first-color: #03a9f4;
+    --main-gradient-second-color: #e91e63;
+}
+
+body.dark-theme {
+    --main-link-color: #fff;
+    --main-gradient-first-color: #7d3780;
+    --main-gradient-second-color: #4a2c40;
+}
+
+.body.sublime-theme {
+    --main-link-color: #fff;
+    --main-gradient-first-color: #6a82fb;
+    --main-gradient-second-color: #fc5c7d;
+}
